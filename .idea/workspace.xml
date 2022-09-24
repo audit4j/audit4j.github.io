@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc052995-4134-436c-869a-412c98208f8e" name="Changes" comment="Changed contents">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/logos/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/logos/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/logos/logo@1024px.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/logos/logo@1024px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/logos/logo@120px.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/logos/logo@120px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/logos/logo@144px.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/logos/logo@144px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/logos/logo@16px.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/logos/logo@16px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/logos/logo@180px.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/logos/logo@180px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/logos/logo@32px.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/logos/logo@32px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/logos/logo@512px.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/logos/logo@512px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/logos/logo@96px.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/logos/logo@96px.png" afterDir="false" />
-    </list>
+    <list default="true" id="fc052995-4134-436c-869a-412c98208f8e" name="Changes" comment="Changed contents" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,14 +18,19 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/janith/Documents/Source/audit4j.github.io/assets/logos&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "/Users/janith/Documents/Source/audit4j.github.io/assets/logos",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/logos" />
