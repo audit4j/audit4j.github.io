@@ -1,10 +1,13 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
-keywords: sample homepage
+title: "Audit4j - An opensource auditing platform"
+keywords: homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
+summary: Audit4j is an open source project to build a [su_label]highly pluggable[/su_label], [su_label]embedded[/su_label], [su_label]asynchronous[/su_label], [su_label]secure[/su_label], [su_label]annotation driven[/su_label] and [su_label]high performance[/su_label] audit suite. It's core is entirely written in java but still exposing the Scala and Groovy friendly API.
+Audit4j can be used to audit events related to Servers, Applications and Databases. The architecture is designed to achieve high modularity and high performance.
+For more information refer the <a title="Faq" href="/audit4j/Faq">Faq</a> page. For user guide visit the <a title="Documentation" href="/audit4j/documentation/">documentation</a> page.
+.
 ---
 
 {% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
