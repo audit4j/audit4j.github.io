@@ -3,24 +3,397 @@
   <component name="ChangeListManager">
     <list default="true" id="fc052995-4134-436c-869a-412c98208f8e" name="Changes" comment="Changed contents">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/callout.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/callout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/commento.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/commento.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/feedback.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/feedback.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head_print.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head_print.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/image.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/image.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/important.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/important.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/initialize_shuffle.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/initialize_shuffle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/inline_image.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/inline_image.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/links.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/note.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/note.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/taglogic.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/taglogic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/tip.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/tip.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/topnav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/topnav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/warning.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/warning.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.md" beforeDir="false" afterPath="$PROJECT_DIR$/404.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE-BSD-NAVGOCO.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/alerts.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/definitions.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/glossary.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/samplelist.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/sidebars/home_sidebar.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/sidebars/mydoc_sidebar.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/sidebars/other.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/sidebars/product1_sidebar.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/sidebars/product2_sidebar.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/strings.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/tags.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/terms.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/topnav.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/archive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/callout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/commento.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/custom/getting_started_series.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/custom/getting_started_series_next.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/custom/series_acme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/custom/series_acme_next.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/custom/usermap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/custom/usermapcomplex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/feedback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/google_analytics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head_print.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/important.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/initialize_shuffle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/inline_image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/note.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/taglogic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/tip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/topnav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/warning.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default_print.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/none.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page_print.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-12-test-post-last-year.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-24-first-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-26-sample-post-jekyll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/LICENSE-BSD-NAVGOCO.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/createtag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/boxshadowproperties.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/customstyles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/modern-business.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/printstyles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/syntax.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/theme-blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/css/theme-green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/androidsdkmanagericon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/authorizegithubscreen2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/authorizeongithub.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/company_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/company_logo_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/helpapi-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/helpapi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/illustratoroptions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/itermexample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/jekyll.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/killalljekyll.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/liningup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/images/workflowarrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/js/customscripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/js/jekyll-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/js/jquery.ba-throttle-debounce.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/js/jquery.navgoco.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/js/jquery.shuffle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/js/toc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_about_ruby_gems_etc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_adding_tooltips.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_alerts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_atom_text_editor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_build_arguments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_build_scripts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_code_samples.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_collections.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_commenting_on_files.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_conditional_logic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_content_reuse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_exluding_files.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_faq_layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_generating_pdfs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_glossary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_help_api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_hyperlinks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_install_jekyll_on_mac.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_install_jekyll_on_windows.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_introduction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_iterm_profiles.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_kb_layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_labels.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_navtabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_pages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_posts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_publishing_github_pages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_push_build_to_server.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_release_notes_50.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_release_notes_60.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_search_configuration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_series.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_seriesdemo1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_seriesdemo2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_seriesdemo3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_seriesdemo4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_shuffle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_sidebar_navigation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_special_layouts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_support.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_supported_features.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_syntax_highlighting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_tag_archives_overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_themes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_troubleshooting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_webstorm_text_editor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_workflow_maps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/mydoc_yaml_tutorial.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/myupdate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/news_archive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p1_landing_page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p1_sample1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p1_sample2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p1_sample3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p1_sample4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p1_sample5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p1_sample6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p1_sample7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p2_landing_page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p2_sample1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p2_sample10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p2_sample11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p2_sample12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p2_sample13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p2_sample14.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p2_sample2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p2_sample3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p2_sample4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p2_sample5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p2_sample6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p2_sample7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p2_sample8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/p2_sample9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/pdf-all.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/pdf-mydoc.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/pdf-product1.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/pdf-product2.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/pdf/mydoc.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/pdf/product1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/pdf/product2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/pdfconfigs/config_mydoc_pdf.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/pdfconfigs/config_product1_pdf.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/pdfconfigs/config_product2_pdf.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/pdfconfigs/prince-list.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/samplepost.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/search.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag_collaboration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag_content_types.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag_formatting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag_getting_started.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag_mobile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag_navigation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag_news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag_publishing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag_single_sourcing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag_special_layouts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tag_troubleshooting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/test-post-from-last-year.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/titlepage.html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tocpage.html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tooltips.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tooltips.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/update.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/var/build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/watch.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_tooltips/baseball.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_tooltips/basketball.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_tooltips/football.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_tooltips/soccer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/createtag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/boxshadowproperties.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/customstyles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/modern-business.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/printstyles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/syntax.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme-blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/theme-green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/androidsdkmanagericon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/authorizegithubscreen2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/authorizeongithub.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/company_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/company_logo_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/helpapi-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/helpapi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/illustratoroptions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/itermexample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/jekyll.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/killalljekyll.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/liningup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/workflowarrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/customscripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jekyll-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.ba-throttle-debounce.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.navgoco.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.shuffle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/toc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_about_ruby_gems_bundler.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_adding_tooltips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_alerts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_atom_text_editor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_build_arguments.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_build_scripts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_code_samples.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_collections.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_commenting_on_files.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_conditional_logic.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_content_reuse.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_excluding_files.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_faq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_generating_pdfs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_git_collaboration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_glossary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_help_api.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_hyperlinks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_icons.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_images.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_install_jekyll_on_mac.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_install_jekyll_on_windows.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_installing_bundler.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_introduction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_iterm_profiles.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_kb_layout.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_labels.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_lists.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_navtabs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_pages.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_posts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_publishing_github_pages.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_push_build_to_server.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_release_notes_50.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_release_notes_60.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_search_configuration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_series.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_seriesdemo1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_seriesdemo2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_seriesdemo3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_seriesdemo4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_shuffle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_sidebar_navigation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_special_layouts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_support.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_supported_features.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_syntax_highlighting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_tables.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_tag_archives_overview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_tags.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_themes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_troubleshooting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_webstorm_text_editor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_workflow_maps.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mydoc/mydoc_yaml_tutorial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/news/news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/news/news_archive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product1/p1_landing_page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product1/p1_sample1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product1/p1_sample2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product1/p1_sample3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product1/p1_sample4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product1/p1_sample5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product1/p1_sample6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product1/p1_sample7.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product2/p2_landing_page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product2/p2_sample1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product2/p2_sample10.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product2/p2_sample11.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product2/p2_sample12.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product2/p2_sample13.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product2/p2_sample14.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product2/p2_sample2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product2/p2_sample3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product2/p2_sample4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product2/p2_sample5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product2/p2_sample6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product2/p2_sample7.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product2/p2_sample8.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product2/p2_sample9.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tags/tag_collaboration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tags/tag_content_types.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tags/tag_formatting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tags/tag_getting_started.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tags/tag_mobile.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tags/tag_navigation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tags/tag_news.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tags/tag_publishing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tags/tag_single_sourcing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tags/tag_special_layouts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tags/tag_troubleshooting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf-all.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf-mydoc.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf-product1.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf-product2.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/mydoc.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/product1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/product2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdfconfigs/config_mydoc_pdf.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdfconfigs/config_product1_pdf.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdfconfigs/config_product2_pdf.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdfconfigs/prince-list.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdfconfigs/titlepage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdfconfigs/tocpage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tooltips.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tooltips.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/update.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664039852345</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changed contents">
+      <created>1664042334494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664042334494</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
