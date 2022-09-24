@@ -9,7 +9,7 @@ Audit4j is an open source project to build a **highly pluggable**, **embedded**,
 Audit4j can be used to audit events related to Servers, Applications and Databases. The architecture is designed to achieve high modularity and high performance.
 For more information refer the <a title="Faq" href="/audit4j/Faq">Faq page. For user guide visit the <a title="Documentation" href="/audit4j/documentation/">documentation page.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/audit4j" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://audit4j.org&text=An%20Opensource%20auditing%20Framework&via=Audit4j" color="#0d94e7" %}
+{% include button.html text="Fork it" icon="github" link="https://github.com/audit4j" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://www.buymeacoffee.com/janith3000" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://audit4j.org&text=An%20Opensource%20auditing%20Framework&via=Audit4j" color="#0d94e7" %}
 
 ## Features
 
@@ -22,4 +22,4 @@ For more information refer the <a title="Faq" href="/audit4j/Faq">Faq page. For 
 - Minimum configurations
 - Encrypted audit trails
 - Supports for Java, Scala and Groovy 
-- Rich extendible API – Custom/third party plugins can be implemented by via the API
+- Rich extendable API – Custom/third party plugins can be implemented by via the API
