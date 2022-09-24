@@ -1,52 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc052995-4134-436c-869a-412c98208f8e" name="Changes" comment="Changed contents">
-      <change afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faq.md" afterDir="false" />
+    <list default="true" id="fc052995-4134-436c-869a-412c98208f8e" name="Changes" comment="Added contents">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/08/0744bdfe2ce49041bf9d441569e730776670e39830de7f4950ee2a94f85356" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/21/201928c98ded81a0a093c01335026abbc3931f0ba8e70072befb275cb13b29" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/47/7e777067cb3f78e8a6833124b8a87b2edb1edb181441e537e01b18569e5139" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/53/310b76bf8dd2eed52d1a136cc79fd4484b1d8f3b2bcda05f2fc7f10cade33b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/67/3d3a663c1677776230d45ae98b8d61b28f866a993896ef10706ab3df4177a8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/81/6da6ac6538304931aec5d1f94e6a8d8e52cb560b60f29e3c26964018feeb62" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/89/1bc1d97cec1aeeca87ad7faa3f74bde878a47d0ddd722106d6f60dd3365a39" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e1/ff7a90610311027cdc7238fa223154380d0dae3603d6a7bd102dfef6f5f31b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ea/80e94d05029b054da647781e0fac30fe742d787fe95f3ac3a83c244f766431" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/logos/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/logos/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/logos/logo@1024px.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/logos/logo@1024px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/logos/logo@120px.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/logos/logo@120px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/logos/logo@144px.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/logos/logo@144px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/logos/logo@16px.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/logos/logo@16px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/logos/logo@180px.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/logos/logo@180px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/logos/logo@32px.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/logos/logo@32px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/logos/logo@512px.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/logos/logo@512px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/logos/logo@96px.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/logos/logo@96px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/search.json" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/search.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/page2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/page2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/elements/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/99/cac0ba3e65533d1f59bb494792e67e4f380df1902f1766734d6b17ea8b901d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f1/1451b075e386646cfa778a24251bd4a3c9263fe5becfeea7f7670c322ed667" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/general/2016/08/29/example-post-three/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/general/2016/08/29/example-post-three/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/general/external sources/2016/08/27/example-post-one/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/general/external sources/2016/08/27/example-post-one/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/history/external sources/2016/08/28/example-post-two/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/history/external sources/2016/08/28/example-post-two/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/_site/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/offline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/offline/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/search/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sw.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/thanks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/thanks/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664048411969</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added contents">
+      <created>1664060309398</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664060309398</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added initial site" />
     <MESSAGE value="Changed contents" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed contents" />
+    <MESSAGE value="Added contents" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added contents" />
   </component>
 </project>
